@@ -1,5 +1,5 @@
 - 🔭 I’m currently working at Compactness Ltd.
-- 🌱 I’m currently learning System Programming & Data Stuructures
+- 🌱 I’m currently learning System Programming & Data Structure
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
