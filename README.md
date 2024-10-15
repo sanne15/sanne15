@@ -17,4 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prasiona256&layout=compact&theme=default&custom_title=Weekly%20Most%20Used%20Languages#gh-white-mode-only"/>
 </a>
 
+<a href="https://github.com/sanne15#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanne15&theme=react&count_private=true&show_icons=true#gh-dark-mode-only" alt="My Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prasiona256&theme=compact&custom_title=Weekly%20Most%20Used%20Languages#gh-dark-mode-only"/>
+</a>
+
 Last Updated At 24/09/26
